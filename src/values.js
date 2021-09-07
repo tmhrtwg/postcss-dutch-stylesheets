@@ -63,7 +63,7 @@ export default {
   'greenyellow': 'groengeel',
   'honeydew': 'honingdauw',
   'hotpink': 'felroze',
-  'indianred': 'indischrood',
+  'indianred': 'indiaasrood',
   'ivory': 'ivoor',
   'khaki': 'kaki',
   'lavenderblush': 'lavendelbloesem',
